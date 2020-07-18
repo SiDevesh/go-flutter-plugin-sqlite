@@ -1,4 +1,4 @@
-module github.com/sidevesh/go-flutter-plugin-sqlite
+module github.com/sidevesh/go-flutter-plugin-sqflite
 
 go 1.12
 
